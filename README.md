@@ -122,6 +122,8 @@ API 테스트는 Postman으로 수행했습니다.
 이번 프로젝트에서는 단순 API 구현에 그치지 않고,
 **QA 관점에서 정상/비정상 API 테스트 → 결함 등록 → 수정 → 재검증** 흐름을 한 번 수행했습니다.
 
+QA 테스트 결과는 [Confluence 문서](https://gjonggod.atlassian.net/wiki/pages/resumedraft.action?draftId=1343497&draftShareId=4809613f-295a-4fc6-9686-687f84ddb62d) 기준으로 정리
+
 ### 8-1. 테스트 범위
 
 대상 API:
